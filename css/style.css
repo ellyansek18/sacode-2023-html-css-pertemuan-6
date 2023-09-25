@@ -1,0 +1,7 @@
+/* Universal Selector CSS */
+
+* {
+   background-color: rgb(60, 0, 107);
+   color: #fff;
+   font-family: 'Times New Roman', Times, serif;
+}
